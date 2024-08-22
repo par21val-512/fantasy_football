@@ -1,0 +1,17 @@
+{
+    "players": [
+        {
+            "name": "Patrick Mahomes",
+            "team": "Chiefs",
+            "position": "QB",
+            "points": 10
+        },
+        {
+            "name": "Derrick Henry",
+            "team": "Titans",
+            "position": "RB",
+            "points": 10
+        }
+    ],
+    "points": 20
+}

@@ -1,0 +1,35 @@
+{
+  "players": [
+    {
+      "name": "Patrick Mahomes",
+      "team": "Chiefs",
+      "position": "QB",
+      "points": 10
+    },
+    {
+      "name": "Derrick Henry",
+      "team": "Titans",
+      "position": "RB",
+      "points": 25
+    },
+    {
+      "name": "Davante Adams",
+      "team": "Raiders",
+      "position": "WR",
+      "points": 10
+    },
+    {
+      "name": "Jeff",
+      "team": "Pats",
+      "position": "TE",
+      "points": 54
+    },
+    {
+      "name": "Steelers Defense",
+      "team": "Steelers",
+      "position": "Defense",
+      "points": 1
+    }
+  ],
+  "points": 100
+}

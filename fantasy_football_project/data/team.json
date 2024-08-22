@@ -1,0 +1,17 @@
+{
+    "players": [
+        {
+            "name": "aa",
+            "team": "bb",
+            "position": "QB",
+            "points": 20
+        },
+        {
+            "name": "cc",
+            "team": "dd",
+            "position": "RB",
+            "points": 0
+        }
+    ],
+    "points": 20
+}
